@@ -1,0 +1,19 @@
+{
+    "name": "messagedigital/wkhtmltoimage-osx",
+    "description": "Convert html to image using webkit (qtwebkit). Static linked osx binary.",
+    "keywords": ["image", "thumbnail", "snapshot", "wkhtmltopdf", "convert", "binary"],
+    "license": "LGPL Version 3",
+    "homepage": "https://code.google.com/p/wkhtmltopdf/",
+    "authors": [
+        {
+            "name": "Laurence Roberts",
+            "email": "laurence@message.co.uk"
+        }
+    ],
+    "minimum-stability": "stable",
+    "bin": [
+        "bin/wkhtmltopdf-osx"
+    ],
+    "require": {
+    }
+}
